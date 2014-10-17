@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[scg:home|Door43 (scg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-scg|d43-scg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-scg/archive/master.zip|d43-scg.zip]]
+
+**Recent Changes**
+{{changes>ns = scg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/scg|Ethnologue data]]
+
